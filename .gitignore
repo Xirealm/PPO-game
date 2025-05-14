@@ -1,0 +1,12 @@
+.tmp.drivedownload
+.tmp.driveupload
+
+dataset/*
+results/*
+train_data/*
+train/*
+evaluation/*
+
+__pycache__/*
+
+__pycache__
