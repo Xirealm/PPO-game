@@ -7,7 +7,6 @@ from PIL import Image
 import cv2
 import warnings
 import matplotlib.pyplot as plt
-import json
 from utils import calculate_center_points
 from config import *
 
